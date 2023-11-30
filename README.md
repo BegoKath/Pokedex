@@ -53,5 +53,5 @@ Esta es una forma de ejecutar tu aplicación - también puedes ejecutarla direct
 
 En tal caso no se este ejecutando la aplicación puede utilizar el siguiente comando para verificar que tenga todos los Requerimientos.
 ```bash
-         npx @react-native-community/cli doctor
+npx @react-native-community/cli doctor
 ```
