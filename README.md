@@ -1,5 +1,5 @@
 # Pokedex
-##Aplicación utilizando React-Native
+## Aplicación utilizando React-Native
 
 Esta aplicación utiliza como base de datos la PokeApi para obtener la información de cada uno de los Pokemon.
 Donde se representa Nombre,Peso, Tipo, Habilidades,Movimientos, Espiritus de cada uno de los Pokemon.
@@ -8,7 +8,7 @@ En la primera pantalla cuenta con una Lista infinita para el consumo virtualizad
 
 
 
-##Utilizacion
+## Utilizacion
 ## Paso 1: Iniciar el servidor Metro
 
 Primero, necesitarás arrancar **Metro**, el _bundler_ JavaScript que viene _con_ React Native.
@@ -50,5 +50,8 @@ yarn ios
 Si todo está configurado _correctamente_, debería ver su nueva aplicación ejecutándose en su _Emulador Android_ o _Simulador iOS_ en breve, siempre que haya configurado su emulador/simulador correctamente.
 
 Esta es una forma de ejecutar tu aplicación - también puedes ejecutarla directamente desde Android Studio y Xcode respectivamente.
---- En tal caso no se este ejecutando la aplicación puede utilizar el siguiente comando para verificar que tenga todos los Requerimientos.
+
+En tal caso no se este ejecutando la aplicación puede utilizar el siguiente comando para verificar que tenga todos los Requerimientos.
+```bash
          npx @react-native-community/cli doctor
+```
