@@ -5,11 +5,18 @@ Esta aplicación utiliza como base de datos la PokeApi para obtener la informaci
 Donde se representa Nombre,Peso, Tipo, Habilidades,Movimientos, Espiritus de cada uno de los Pokemon.
 
 En la primera pantalla cuenta con una Lista infinita para el consumo virtualizado de la API, donde se puede dar click en cada uno de los Pokemon para ver su detalle, tambien se implemento el tema claro y oscuro para la satisfación del usuario.
-<div class="row justify-content-around" >
-  <img width="200" alt="Screenshoot App" src="https://raw.githubusercontent.com/BegoKath/Pokedex/master/assets/img/1.png">
-  <img width="200" alt="Screenshoot App" src="https://raw.githubusercontent.com/BegoKath/Pokedex/master/assets/img/2.png">
+<div class="row" >
+  <img class="m-2" width="200" alt="Screenshoot App" src="https://raw.githubusercontent.com/BegoKath/Pokedex/master/assets/img/1.png">
+  <img  class="m-2"  width="200" alt="Screenshoot App" src="https://raw.githubusercontent.com/BegoKath/Pokedex/master/assets/img/2.png">
+  <img class="m-2" width="200" alt="Screenshoot App" src="https://raw.githubusercontent.com/BegoKath/Pokedex/master/assets/img/3.png">
+  <img  class="m-2"  width="200" alt="Screenshoot App" src="https://raw.githubusercontent.com/BegoKath/Pokedex/master/assets/img/4.png">
 </div>
-
+<div class="row" >
+  <img class="m-2" width="200" alt="Screenshoot App" src="https://raw.githubusercontent.com/BegoKath/Pokedex/master/assets/img/5.png">
+  <img  class="m-2"  width="200" alt="Screenshoot App" src="https://raw.githubusercontent.com/BegoKath/Pokedex/master/assets/img/6.png">
+  <img class="m-2" width="200" alt="Screenshoot App" src="https://raw.githubusercontent.com/BegoKath/Pokedex/master/assets/img/7.png">
+  <img  class="m-2"  width="200" alt="Screenshoot App" src="https://raw.githubusercontent.com/BegoKath/Pokedex/master/assets/img/8.png">
+</div>
 
 ## Utilizacion
 ## Paso 1: Iniciar el servidor Metro
