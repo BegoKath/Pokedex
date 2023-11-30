@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Nabla-Regular-VariableFont_EDPT,EHLT.ttf",
+      "sha1": "ac19ffe92130c1f44686c4aa2de499ca1c341777"
+    },
+    {
+      "path": "assets/fonts/Nabla-Regular.ttf",
+      "sha1": "633b0cefd4ca41971bb9c9a52e982beee162ed3c"
+    },
+    {
+      "path": "assets/fonts/NovaMono-Regular.ttf",
+      "sha1": "4a962d87ef73bb90619055280310622b0294cebc"
+    },
+    {
+      "path": "assets/fonts/RubikMonoOne-Regular.ttf",
+      "sha1": "494e30805dc070dfa19c14f69db2dc887ed12556"
+    },
+    {
+      "path": "assets/fonts/VT323-Regular.ttf",
+      "sha1": "a4cbe89ec9e1bf6ddd26c53c118f587f1b465f25"
+    }
+  ]
+}
